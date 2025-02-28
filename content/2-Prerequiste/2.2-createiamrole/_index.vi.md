@@ -63,7 +63,7 @@ aws sts get-caller-identity --query 'Arn' --output text | awk -F: '{print $NF}' 
 Quá trình triển khai
 Sau khi thiết lập các tham số, nhấp vào Tạo ngăn xếp.
 
-![VPC](/images/2/image008.png)
+![VPC](/static/images/2/image008.png)
 
 Quá trình này sẽ khởi tạo Dự án AWS CodeBuild, dự án này sẽ đưa thư viện nguồn mở opea-demo-builder vào
 
