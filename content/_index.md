@@ -11,4 +11,4 @@ chapter : false
 
 For those who finish early, optional exercises will be available, providing alternative approaches to running LLM models in a serverless environment within your RAG deployment.
 
-![ConnectPrivate](/images/6.clean/image000.png) 
+![ConnectPrivate](static/images/6.clean/image000.png) 
